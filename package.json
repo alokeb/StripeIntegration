@@ -1,0 +1,26 @@
+{
+  "name": "stripeintegration",
+  "version": "1.0.0",
+  "description": "Stripe integration POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokeb/StripeIntegration.git"
+  },
+  "keywords": [
+    "Stripe",
+    "POC"
+  ],
+  "author": "Aloke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokeb/StripeIntegration/issues"
+  },
+  "homepage": "https://github.com/alokeb/StripeIntegration#readme",
+  "dependencies": {
+    "stripe": "^11.2.0"
+  }
+}
